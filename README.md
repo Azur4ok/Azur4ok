@@ -17,7 +17,7 @@ I'm a passionate Front-End Developer interested in creating engaging and respons
 
 
 ## 🤝 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/aziz-isanov-2364a9231/
+- LinkedIn: https://www.linkedin.com/in/aziz-isanov/
 
 ## 📫 How to reach me
 Feel free to reach out for collaborations or just a chat about tech! You can email me at: isanovaziz10.com
